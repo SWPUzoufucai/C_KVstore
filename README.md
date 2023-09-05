@@ -18,7 +18,7 @@ $ cd ../ # 进入kvstore的根目录
 $ gcc -o kvstore kvstore.c -I ./NtyCo/core/ -L ./NtyCo/ -lntyco -lpthread -ldl 
 ```
 
-#### 代码编译（20230807以后的版本）
+#### 代码编译
 ```
 $ cd C_KVvstore/
 $ make
